@@ -29,6 +29,11 @@ markdown: kramdown
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
+collections:
+  my_categories:
+    output: true
+    permalink: /blog/:category/:name/
+
 descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
