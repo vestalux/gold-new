@@ -1,11 +1,6 @@
 ---
 layout: page
 ---
-{% assign category = site.my_categories | where: "slug", post.category %}
-{% assign category = category[0] %}
-{% if category %}
-    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
-{% endif %}
 
 <div class="post">
   <!-- Wrapper Start -->
@@ -16,7 +11,7 @@ layout: page
           <div class="block">
             <h1>{{ page.title }}</h1>
             <div class="post-info-wrapper">
-              <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }} <a class="label" href="{{ category.url }}">{{ category.name }}</a></span></p>
+              <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }} </span></p>
             </div>
             <hr />
             <p>{{ content }}</p>
