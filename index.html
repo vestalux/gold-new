@@ -49,7 +49,9 @@ permalink: /
       {% for post in site.posts limit: 3 %}
 <div class="post-area">
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
-  
+  <p>
+    {{ post.content | strip_html | truncatewords: 50 }}
+  </p>
       </div>
 {% endfor %}
 
