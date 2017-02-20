@@ -44,12 +44,13 @@ permalink: /
 <div class="container">
   <div class="row">
     <div class="col-md-6 col-md-offset-6">
-      <h2>MEGOLDÁSOK MINDENKINEK</h2>
+      <h2>ÜZLETI HÍREK</h2>
+      <div class="post-area">
       {% for post in site.posts limit: 3 %}
 
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
   
-
+      </div>
 {% endfor %}
 
       <p>Tanácsadó irodánk már jelentős ügyfél bázissal rendelkezik, melynek titka, hogy a szolgáltatási csomagokhoz való hozzáférés nem igényel nagy beruházást, az amúgy is tőkeszegény vállalkozások részéről, így kicsi kockázattal (megfizethető havi díjjal) a mikro-, kis és középvállalkozások olyan komplex szolgáltatáshoz jutnak, melyek eddig csak a nagyvállalatok számára volt hozzáférhető</p>
