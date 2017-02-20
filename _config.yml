@@ -32,7 +32,7 @@ markdown: kramdown
 collections:
   my_categories:
     output: true
-    permalink: /hirek/:category/:name/
+    permalink: /hirek/:category/:title/
 
 descriptions:
   - cat: jekyll
