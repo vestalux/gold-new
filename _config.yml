@@ -28,4 +28,4 @@ markdown: kramdown
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
-permalink: none
+permalink: /:categories/:title
