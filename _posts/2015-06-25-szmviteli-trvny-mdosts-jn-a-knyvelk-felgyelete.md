@@ -1,0 +1,9 @@
+---
+layout: post
+title: Számviteli törvény módosítás, jön a könyvelők felügyelete
+created: 1435229450
+categories:
+- !binary |-
+  cMOpbnrDvGd5
+---
+<p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #222222;"><strong><span style="font-weight: normal;">Új szabályozás kidolgozását végzi a Nemzetgazdasági Minisztérium, mely a számviteli törvény módosítását eredményezi és &nbsp;az adózási, számviteli szakemberek felügyeletét is érinti.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span></span></strong></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #222222;">Magyarországon jelenleg nem működik minőségbiztosítási rendszer a könyvvitel területén, a nemzetgazdasági tárca ezért olyan hatóság felállításán gondolkodik, amely képes lenne ellátni a pénzügyi ágazati szakmák feletti kontrollt – jelentette ki Varga Mihály. &nbsp;A hazánkban működő vállalkozásokat a könyvelők kapcsolják össze a költségvetés rendszerével, tőlük kapnak a cégek eligazítást az adózással, költségelszámolással kapcsolatban, ezért kiemelt felelősséggel bír a munkájuk. Ezzel egyidőben a számviteli törvény módosítására is sor kerül, amely jelentős változást eredményez az éves pénzügyi beszámolóra. &nbsp;&nbsp;Az új szabályozás összességében az adminisztrációs terhek további csökkenését eredményezi a hazai kisvállalkozások számára: így például a vállalkozások jelentős részének a &nbsp;jövőben egyszerűsített éves beszámolót kell majd &nbsp;készíteni, és kevesebb anyavállalat lesz köteles összevont konszolidált éves beszámolót összeállítani.<strong>&nbsp;</strong><strong><span style="font-weight: normal;">Az egyeztetésbe bevonták a szakmát képviselő szervezetek képviselőit is.&nbsp;</span></strong></p>

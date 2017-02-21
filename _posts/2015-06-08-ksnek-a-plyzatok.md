@@ -1,0 +1,9 @@
+---
+layout: post
+title: Késnek a pályázatok
+created: 1433749848
+categories:
+- !binary |-
+  cMOhbHnDoXphdA==
+---
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Pedig a KKV szektor számára életmentő lehet a támogatásokból származó tőkebevonás. A legtöbb vállalkozás május 31-re elkészítette 2014 évi beszámolóját, ami &nbsp;a cége gazdasági, pénzügyi helyzetét. &nbsp;Kinek jobban, kinek rosszabbul sikerült az előző év. Saját ügyfeleink körében végeztünk egy „házi kutatást”, &nbsp;öt évet vizsgálva. Azt tapasztaltuk, hogy a cégek 60%-a egyre kisebb árréssel dolgozik, azaz több munkával tudja ugyanazt a bevétel volument elérni, mint 5 évvel ezelőtt. Ennek következtében kevesebb forrás marad &nbsp;a technikai korszerűsítésre , a gépek, telephely fejlesztésére. &nbsp;Ehhez a KKV-k nagy részének külső tőke bevonására lesz szüksége, a lehető legkisebb önerő mellett.</span></p><p>&nbsp;<span style="font-family: arial, helvetica, sans-serif; font-size: small;">Felmérésünket alátámasztja a nemrégiben megjelent GKI kutatás is, amely szerint 10 vállalkozásból 6 pályázni szeretne pályázásra készülő cégek beruházásaik értékének 81 százalékát uniós pénzből tervezik megvalósítani, ennek híján ezeknek a beruházásoknak a 60 százaléka elmaradna.</span></p><p>&nbsp;<span style="font-family: arial, helvetica, sans-serif; font-size: small;">Az áprilisra beharangozott pályázatok azonban két hónapja késnek. A &nbsp;pályázásra buzdító hirdetésekkel azonban nap-mint találkozunk a lapokban. Magyarázatot a késedelemre, &nbsp;vagy konkrét információt a pályázatok megjelenésével kapcsolatban nem adnak az illetékesek, pedig tudhatnák, hogy „Kétszer ad, aki gyorsan ad”, és azt is, hogy &nbsp;egy vállalkozás életében nincsen nagyobb veszély, mint a tőkehiány és a &nbsp;bizonytalanság.</span></p>

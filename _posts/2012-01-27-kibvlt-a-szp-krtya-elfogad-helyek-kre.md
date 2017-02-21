@@ -1,0 +1,9 @@
+---
+layout: post
+title: Kibővült a SZÉP Kártya elfogadó helyek köre
+created: 1327670761
+categories:
+- !binary |-
+  bXVua2F2w6FsbGFsw6Fz
+---
+<p><strong>A SZÉP Kártyát</strong> nem csak az éttermekben és belföldi szálláshelyeken használhatjuk fel, hanem olyan <strong>különleges helyeken is elfogadják</strong>, mint például a szépségszalonok (szoláriumok, karcsúsító szalonok), sípályák és fesztiválok.</p><p><strong><!--break-->A SZÉP Kártya három részből állhat:</strong></p><ul><li>A <strong>szálláshely-szolgáltatási alszámlára</strong> a munkáltatók kedvezményesen <strong>évi 225 ezer forintot</strong> utalhatnak át. Innen csak a szálláshelyek, illetve a belföldi utazások árát lehet fedezni.</li></ul><ul><li>A <strong>melegétel alszámlával</strong> kedvezményesen <strong>évi 150 ezer (havi 12.500) forintos</strong> kerettel lehet majd éttermekben fizetni. A keretből ugyanúgy lehet fedezni a szálláshely költségeket is.</li></ul><ul><li>A <strong>rekreációs alszámlára</strong> kedvezményesen átutalható keret <strong>évi 75 ezer forint</strong>, amelyet szórakoztató és kulturális intézményekben (színház, múzeum, állatkert, vidámpark, hajózás, fesztiválok), valamint az egészségmegőrzést szolgáló szolgáltatásoknál (edző- és fitnesz termekben, lovaglásnál, hazai sípályákon, törökfürdőkben, szaunákban és gőzfürdőkben, gyógyfürdőkben, valamint szoláriumokban és fogyasztó- és karcsúsító szalonokban) lehet felhasználni. Ez az alszámla is alkalmas a belföldi szálláshely-költségek fedezésére.</li></ul><p><strong>2011. december 31-én</strong> a SZÉP Kártya elfogadóhelyek száma meghaladta az <strong>ötezret</strong>, az azóta eltelt néhány hét alatt közel <strong>2000 taggal bővült</strong> <strong>a hálózat</strong>, a tervek szerint az év közepére a <strong>20 ezret</strong> is el fogja érni a SZÉP Kártya elfogadóhelyek száma.</p>

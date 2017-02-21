@@ -1,0 +1,10 @@
+---
+layout: post
+title: Mindenki tudja, hogy létezik, de mi is a „kisadó”, és mi alól mentesíti az
+  azt igénybe vevőket?
+created: 1352544027
+categories:
+- !binary |-
+  Z2F6ZGFzw6Fn
+---
+<p style="text-align: justify;"><strong>A kisadóról dióhéjban:</strong> választható adónem, a kis- és mikrovállalkozások számára optimalizálva. A kisadó igénybe vételekor az összes foglalkoztatott maximum 25 fő lehet, a mérlegfőösszeg és az összes árbevétel összege pedig 500 millió forint. Az EVA-ba való belépéskor kitétel a már 2 éves működés, a kisadót azonban frissen alakult cégek is választhatják.</p><p style="text-align: justify;">Az adó alapja a vállalkozás pénzforgalmi szemléletű eredménye és a TB járulékalapot képező személyi jellegű kifizetések összege. (adott időszak pénzeszköz-változása – a vállalkozásból kivett pénz az adóalapot növeli, a vállalkozásba vitt pénz pedig csökkenti – alapként lehetővé teszi, hogy a vállalkozásba vitt pénz nem növeli az adóalapot, a beruházások egy összegben számolhatóak el).</p><p style="text-align: justify;">Az adó kulcsa 16%.</p><p style="text-align: justify;"><strong>Mi alól mentesít a kisadó?</strong></p><ul><li style="text-align: justify;">Társasági adó megállapítása (bevallás, fizetés) – a kkt-k, bt-k mentesülnek a 10%-os társasági adó alól.</li><li style="text-align: justify;">SZJA, járulékok, egészségügyi hozzájárulás, megállapítása (bevallás, fizetés) – az egyéni vállalkozók, a társasági tagok mentesülnek a kviét utáni SZJA és járulékok, nyugdíjjárulék, egészségbiztosítási és munkaerő-piaci járulék, illetve kkt. bt. tagokat az osztalék utáni SZJA és EHO fizetési kötelezettség alól.</li><li style="text-align: justify;">Szociális hozzájárulási adó, egészségügyi hozzájárulás szakképzési hozzájárulás megállapítása (bevallás, fizetés) – az egyéni vállalkozók és a társaságok mentesülnek a kisadózók utáni, fent említett fizetési kötelezettségek alól.</li><li style="text-align: justify;"><strong>Fontos:</strong> Nem mentesít a kisadó a Bt. Kkt. nem kisadózó jogállású tagja részére juttatás – pl. az osztalék utáni szja alól.</li></ul>

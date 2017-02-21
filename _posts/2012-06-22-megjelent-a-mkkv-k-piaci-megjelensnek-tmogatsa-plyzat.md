@@ -1,0 +1,9 @@
+---
+layout: post
+title: Megjelent a MKKV-k piaci megjelenésének támogatása pályázat
+created: 1340366082
+categories:
+- !binary |-
+  cMOhbHnDoXphdA==
+---
+<p style="text-align: justify;">Az Új Széchenyi Terv keretében megjelent a „<strong>Mikro-, Kis-, és Középvállalkozások piaci megjelenésének támogatása</strong>” című (<a href="http://www.goldconsulting.eu/palyazatok/vallalkozasfejlesztes/mkkv-k-piaci-megjelenesenek-tamogatasa" title="Pályázat kivonata"><strong>GOP-2012-3.3.3</strong> <strong>kódszámú</strong></a>) pályázati kiírás.</p><p style="text-align: justify;">A konstrukció <strong>tanácsadói tevékenységeken keresztül</strong> segíti hozzá a vállalkozásokat <strong>nemzetközi versenyképességük megteremtéséhez</strong> vagy növeléséhez, beleértve a lehetséges <strong>piacok felmérésének támogatását</strong>, ezzel növelve a magyar vállalkozások bővülését, növekedését, hatékonyságát, versenyképességét. A piacokra jutást a tanácsadói tevékenységeken keresztül támogatja a program, felismerve a vállalkozások számára szűkösen elérhető forrásokat, így a <strong>humánerőforrások</strong>, <strong>információ</strong>, <strong>szaktudás</strong>, <strong>tapasztalat és idő</strong> tekintetében.</p><p style="text-align: justify;"><strong>Ezért a konstrukció célja, hogy a vállalkozások piaci megjelenéséhez</strong> <strong>és a piaci versenyben való eredményes részvételhez szükséges információhoz, vállalkozás specifikus üzleti tanácsadáshoz juttassa a vállalkozásokat.</strong></p><p style="text-align: justify;">Az igényelhető vissza nem térítendő támogatás összege: <strong>minimum 3 millió forint</strong>, <strong>maximum 20 millió forint</strong>.</p><p style="text-align: justify;">A pályázatok benyújtása <strong>2012. augusztus 1-jétől 2013. március 15-ig</strong> lehetséges.</p>

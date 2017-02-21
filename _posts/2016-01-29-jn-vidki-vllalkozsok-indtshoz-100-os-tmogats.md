@@ -1,0 +1,9 @@
+---
+layout: post
+title: JÖN!! Vidéki vállalkozások indításához 100% -os támogatás!!
+created: 1454073201
+categories:
+- !binary |-
+  cMOhbHnDoXphdA==
+---
+<p style="margin: 0px 0px 6px; color: #141823; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 19.32px;">Most megvalósíthatod régóta dédelgetett álmodat ugyanis februártól 100%-os támogatás igényelhető vidéki vállalkozások indításához!</p><p style="margin: 6px 0px; color: #141823; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 19.32px;">Februárban kerül kiírásra azoknak a rég várt támogatásoknak a pályázati kiírása, melyek a vidéki kistelepülések vállalkozóit segíti. Ennek első kiírása februárra várható.<br>Pályázók köre: helyben lakó 18. életévét betöltött cselekvő­képes természetes személy, aki a pályázat benyújtása évének január 1. napján a fejlesztés megvalósulásának helyén áll<span class="text_exposed_show" style="display: inline;">andó lakóhellyel rendelkezik.</span></p><div class="text_exposed_show" style="display: inline; color: #141823; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 19.32px;"><p style="margin: 0px 0px 6px;">Tevékenységi kör: nem mezőgazdasági tevékenység, ezen kívül nem várható korlátozás, bármely termelő, szolgáltató tevékenység</p><p style="margin: 6px 0px;">Összege: max. 12 millió Ft</p><p style="margin: 6px 0px;">Mértéke 100%</p><p style="margin: 6px 0px;">Előleg: 75% azonnal, 25% az üzleti terv megvalósulásakor 36 hónap után</p><p style="margin: 6px 0px;">Sokan fognak pályázni, ezért csak a legjobb üzleti tervvel lehet nyerni. Készüljön fel. Keresse pályázati tanácsadónkat Kádas Áron - info@goldconsulting.eu</p></div><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; color: #222222;"><span style="text-decoration: underline;"></span>&nbsp;</p>

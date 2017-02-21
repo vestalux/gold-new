@@ -1,0 +1,9 @@
+---
+layout: post
+title: 2013-ban újra élelmiszeripari pályázat!
+created: 1368689228
+categories:
+- !binary |-
+  cMOhbHnDoXphdA==
+---
+<p style="text-align: justify;"><strong>2013-ban várhatóan újból megjelenik az élelmiszer feldolgozók fejlesztését szolgáló, Mezőgazdasági és Vidékfejlesztési Hivatal által kezelt pályázat,</strong> nyilatkozta Kardeván Endre, a Vidékfejlesztési Minisztérium élelmiszerlánc- felügyeletért és agrárigazgatásért felelős államtitkára.</p><p style="text-align: justify;"><strong>A kiírás célja</strong>, hogy a mezőgazdasági termékek feldolgozásának, illetve forgalmazásának javításával vagy új termékek, eljárások, technológiák bevezetésével növekedjen a mezőgazdasági üzem, illetve élelmiszeripari vállalkozás összteljesítménye és versenyképessége, továbbá javulnak az élelmiszerbiztonsági és- higiéniai feltételek, csökkenjen a környezetterhelés.</p><p style="text-align: justify;">A támogatásra elkülönített keretösszeg várhatóan nagyobb lesz az eddigieknél, a pályázati kiírások hamarosan megjelennek majd a Magyar Közlönyben és a Mezőgazdasági és Vidékfejlesztési Hivatal honlapján.</p><p style="text-align: justify;"><strong>Támogatásra jogosultak:</strong></p><ul><li>az egyéni vállalkozók,</li><li>egyéni cégek,</li><li>jogi személyiség nélküli, valamint jogi személyiséggel rendelkező gazdasági társaságok,</li><li>szövetkezetek, amelyek KKV-nak vagy nagyvállalatnak minősülnek.</li></ul><p style="text-align: justify;"><strong>Elszámolható költségnek</strong> minősül a gép- és technológia beszerzés, épület építése és felújítása, és a szoftverfejlesztés és hardver beszerzés.</p><p style="text-align: justify;">A felkészülést, különösen az építési engedélyek beszerzését már most meg kell kezdeni,<strong> pályázni várhatóan 1 hónapig lehet majd!&nbsp;</strong></p>

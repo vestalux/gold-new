@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mától elérhető a fogászati turizmus pályázata
+created: 1330615610
+categories:
+- !binary |-
+  cMOhbHnDoXphdA==
+---
+<p style="text-align: justify;">Az Új Széchenyi Terv keretében <strong>2012. március 1-jétől pályázható</strong> „A magyarországi fogászati turizmus területén működő magyar fogászati vállalkozások versenyképességének javítása és hálózati innováció keretében megvalósuló összehangolt piacfejlesztéshez kapcsolódó támogatás” című (<a href="http://www.goldconsulting.eu/palyazatok/innovacio/fogaszati-turizmus" target="_blank" title="Fogászati turizmus pályázat kivonata"><strong>2011-ÚSZT-TU-2</strong></a> kódszámú) támogatási konstrukció.</p><p style="text-align: justify;">A Nemzeti Fejlesztési Minisztérium által meghirdetésre kerülő, hazai forrású, Új Széchenyi Terv pályázat célja a magyarországi fogászati turizmus területén működő magyar fogászati vállalkozások versenyképességének javítása és hálózati innováció keretében megvalósuló összehangolt piacfejlesztés támogatása.</p><p style="text-align: justify;">Támogatásért pályázatot kizárólag az „Innováció a fogászatban” című (<strong>GOP-2011-1.3.1/F</strong> illetve <strong>KMOP-2011-1.1.4/F</strong> kódszámú) kiírásokon nyertes, érvényes működési engedéllyel rendelkező fogászati vállalkozások, egyéni vállalkozók, mint pályázók nyújthatnak be. A pályázat meghirdetésekor a támogatásra rendelkezésre álló keretösszeg <strong>1 milliárd forint</strong>, az elnyerhető támogatás a <strong>GOP-2011-1.3.1/F</strong> kiíráson nyertes pályázók esetében minimum <strong>10 millió Ft</strong>, maximum <strong>24 millió Ft</strong>, a <strong>KMOP-2011-1.1.4/F</strong> kiíráson nyertes pályázók esetében minimum <strong>10 millió Ft</strong>, maximum <strong>30 millió Ft</strong>, az összes elszámolható költség maximum <strong>78%</strong>-a.</p><p style="text-align: justify;">A pályázat beadása <strong>2012. március 1-től 2012. május 31-ig</strong> lehetséges.</p>

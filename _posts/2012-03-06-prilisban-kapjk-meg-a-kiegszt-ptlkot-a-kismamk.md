@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Áprilisban kapják meg a kiegészítő pótlékot a kismamák"
+created: 1331044790
+categories:
+- !binary |-
+  Z2F6ZGFzw6Fn
+---
+<p style="text-align: justify;">A jövő hónap elején kapják meg a terhességi- gyermekágyi segélyben (tgyás), illetve gyermekgondozási díjban (gyed) részesülő kismamák- januárig visszamenőleg- egy összegben a jövedelempótlékot, de csak azok, akik helyesen kitöltött nyilatkozatban kérték a kiegészítő juttatást. Az Országos Egészségbiztosítási Pénztár (OEP) tájékoztatása szerint nagyon sokan hibásan töltötték ki a nyomtatványt.</p><p style="text-align: justify;">Az adójóváírás eltörlése miatt a legalacsonyabb keresetű kismamák havonta akár 9 ezer forinttal is kevesebb terhességi gyermekágyi segélyt (tgyás), illetve gyermekgondozási díjat (gyed) kapnak januárban, mint tavaly decemberben. A kormány rendeletben lehetővé tette, hogy meghatározott körbe tartozó kismamák jövedelempótlékot igényelhessenek. Fontos megkötés, hogy csak azok kérhetnek kiegészítést, akik 2011. december 31-én már, 2012. január 1-jén pedig még ugyanazt a juttatást, tehát vagy tgyást vagy gyedet kaptak. Nem kérhetnek kompenzációt azok, akik 2011-re vonatkozóan nem vettek igénybe adójóváírást, és legalább havonta 206&nbsp;250 forint összegben (vagyis minimum három kedvezményezett eltartott gyermek után) igénybe veszik a családi adókedvezményt.</p><p style="text-align: justify;">A jogszabály szerint a jövedelempótlékot csak az ellátással egyidejűleg lehet kiutalni. Akinek az ellátásra való jogosultsága időközben lejárt, de a jövedelempótlékra jogosultságot szerzett, április elején számára is kifizetik az őt megillető összeget. Ezt követően a jövedelempótlékot minden hónapban az ellátással együtt kapják meg a kismamák, amíg a tgyásra, illetve a gyed-re való jogosultságuk fennáll 2012-ben.</p>

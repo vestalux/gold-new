@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Új pályázatok!"
+created: 1409726497
+categories:
+- !binary |-
+  cMOhbHnDoXphdA==
+---
+<p>Pályázhatók a Norvég Civil Alap konstrukciói, az alábbiak szerint:</p><p><br> <span style="font-family: Arial;">Pályázatot benyújtani </span><strong><span style="font-family: Arial;">közepes (15 000-50 000 euró)</span></strong><span style="font-family: Arial;"> és </span><strong><span style="font-family: Arial;">kisprojekt (1500-15 000 euró)</span></strong><span style="font-family: Arial;"> kategóriában lehet a következő területeken: </span><br> <span style="font-family: Garamond;">- </span><span style="font-family: Arial;">A terület: demokrácia és emberi jogok;</span><br> <span style="font-family: Garamond;">- </span><span style="font-family: Arial;">B terület: női jogok és esélyegyenlőség;</span><br> <span style="font-family: Garamond;">- </span><span style="font-family: Arial;">C terület: közösség- és szervezetfejlesztés;</span><br> <span style="font-family: Garamond;">- </span><span style="font-family: Arial;">D terület: ifjúsági- és gyermekügyek;</span><br> <span style="font-family: Garamond;">- </span><span style="font-family: Arial;">E terület: környezetvédelem és fenntartható fejlődés;</span><br> <span style="font-family: Garamond;">- </span><span style="font-family: Arial;">F terület: jóléti szolgáltatások társadalmilag sérülékeny csoportoknak;</span><br> <span style="font-family: Garamond;">- </span><span style="font-family: Arial;">G terület: társadalmilag sérülékeny csoportok megerősítése (fókusz: roma integráció).</span></p><p><span style="font-family: Arial;"></span></p><p>&nbsp;</p><p>további információk: http://norvegcivilalap.hu/hu/node/8612<span style="font-family: Arial;"></span></p><p>&nbsp;</p><p>Cégünk áll az érdeklődők rendelkezésére tanácsadással, vagy a pályázat megírásával kapcsolatban.<span style="font-family: Arial;"></span></p>

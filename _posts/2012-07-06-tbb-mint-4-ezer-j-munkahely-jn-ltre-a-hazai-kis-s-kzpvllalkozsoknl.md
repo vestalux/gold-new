@@ -1,0 +1,9 @@
+---
+layout: post
+title: Több mint 4 ezer új munkahely jön létre a hazai kis- és középvállalkozásoknál
+created: 1341569251
+categories:
+- !binary |-
+  bXVua2F2w6FsbGFsw6Fz
+---
+<p style="text-align: justify;"><img src="/sites/goldconsulting.eu/files/img/kezfogas.jpg" alt="Munkahelyteremtés" title="Munkahelyteremtés" style="float: left; margin-right: 10px;" height="150" width="200">A Nemzetgazdasági Minisztérium februárban hirdetett pályázatot a mikro-, kis- és középvállalkozások számára munkahelyteremtő beruházások támogatására (<strong>NFA-2012-KKV</strong>).</p><p style="text-align: justify;">A támogatási program iránt az elmúlt évhez hasonlóan igen élénk érdeklődés volt tapasztalható. A Nemzeti Foglalkoztatási Alapból rendelkezésre álló <strong>10 milliárd forintos</strong> keretre a pályázatokat befogadó munkaügyi központokhoz <strong>750 pályázat</strong> érkezett, <strong>10,3 milliárd Ft</strong> támogatási igénnyel.</p><p style="text-align: justify;">A pályázatok szigorú formai és tartalmi szűrését követően végül <strong>584 vállalkozás </strong>nyert el vissza nem térítendő támogatást <strong>4010 új munkahely</strong> kialakításához, <strong>7,3 Mrd Ft</strong> értékben.</p><p style="text-align: justify;">A támogatás egyúttal <strong>6234 munkahely</strong> megőrzését is segíti, mert a pályázók vállalták, hogy a meglevő létszámukat is megtartják további két évig. A vissza nem térítendő támogatás elsősorban új gépek, berendezések, műszaki eszközök beszerzését, továbbá új létesítmények építését segíti.</p><p style="text-align: justify;">A pályázók között előnyben részesültek a hátrányos helyzetű térségben működő kkv-k, ennek is köszönhető, hogy az elnyert összeg <strong>87,4 %-a</strong> az ország négy hátrányos helyzetű régiójába kerül.</p><p style="text-align: justify;">A formai/tartalmi okok miatt elutasított vállalkozások írásban kapnak értesítést a munkaügyi központoktól.</p>
