@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Üzleti terv és megvalósíthatósági tanulmány készítése"
 created: 1279108276
 categories: []
