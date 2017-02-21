@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Marketing tanácsadás
 created: 1298571939
 categories: []
