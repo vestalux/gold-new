@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sikerrel zárult az első társadalmi vállalkozások fóruma Kaposváron!
+author: Áron
 created: 1467795975
 categories:
 - !binary |-
