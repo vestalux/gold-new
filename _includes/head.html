@@ -7,10 +7,9 @@
 
 <!-- CSS -->
 <style type="text/css">
-  {% capture include_to_scssify %}
-   {% include css/style.scss %}
-  {% endcapture %}
-  {{ include_to_scssify | scssify }}
+  
+   {% include css/main.css %}
+
 </style>
 
 <!--<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">-->
