@@ -28,8 +28,8 @@ sass:
 
 compress_html:
   clippings: all
-  comments:  ["<!-- ", " -->"]
-  endings:   all
+  comments: all
+  endings: all
 
 # Build settings
 markdown: kramdown
