@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: Gold Consulting
 subtitle: "Vállalkozásfejlesztés, projektgenerálás és forrásteremtés egy helyen"
-url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
+url: "https://vestalux.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/gold-new"
 cover: "/assets/cover.png"
