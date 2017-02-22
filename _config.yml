@@ -24,6 +24,8 @@ logo: "/assets/logo.png"
 include: ["_pages"]
 sass:
   style: compressed
+includes:
+- css
 
 # Build settings
 markdown: kramdown
