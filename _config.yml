@@ -22,6 +22,8 @@ baseurl: "/gold-new"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 include: ["_pages"]
+sass:
+  style: compressed
 
 # Build settings
 markdown: kramdown
