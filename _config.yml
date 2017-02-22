@@ -22,10 +22,14 @@ baseurl: "/gold-new"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 include: ["_pages"]
+
 sass:
   style: compressed
-includes:
-- css
+
+compress_html:
+  clippings: all
+  comments:  ["<!-- ", " -->"]
+  endings:   all
 
 # Build settings
 markdown: kramdown
