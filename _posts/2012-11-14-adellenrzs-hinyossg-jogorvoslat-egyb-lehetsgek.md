@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Adóellenőrzés – hiányosság – jogorvoslat – egyéb lehetőségek
-created: 1352882935
+date: 2012-11-14 00:00:00 Z
 categories:
-- !binary |-
-  YWTDsywgasOhcnVsw6lr
+- adó, járulék
+layout: post
+created: 1352882935
 ---
+
 <p>&nbsp;</p><p style="text-align: justify;"><img src="/sites/goldconsulting.eu/files/img/medium_money-in-chains-thumb15833992_0.jpg" style="float: left; margin: 5px;" height="91" width="112"><span style="font-size: small;">Sokak számára nem probléma az adóellenőrzés, viszont talán többen vannak azok, akik félnek, kifejezetten rettegnek tőle.</span><br><span style="font-size: small;"> Milyen lehetőségeink akadnak, ha az adóellenőrzés hiányosságot talált, kvázi „<em>megtörtént a baj</em>”?</span></p><p style="text-align: justify;"><span style="font-size: small;"><br></span></p><p style="text-align: justify;"><!--break--><!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>

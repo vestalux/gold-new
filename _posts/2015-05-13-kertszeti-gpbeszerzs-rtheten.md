@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Kertészeti gépbeszerzés ÉRTHETŐEN
-created: 1431504605
+date: 2015-05-13 00:00:00 Z
 categories:
-- !binary |-
-  cMOhbHnDoXphdA==
+- pályázat
+layout: post
+created: 1431504605
 ---
+
 <p style="text-align: justify;"><span style="font-size: small;">2015. május 18-tól lesz beadható a 2015 évi kertészeti gépbeszerzést támogató MVH pályázat. Ez az ÚMVP utolsó ilyen jellegű pályázata lesz, a jövőben már a 2014-2020-as VP keretében finanszírozott lehetőségek nyílnak meg.</span></p><p style="text-align: justify;"><span style="font-size: small;">A pályázatot az MVH online felületén, meghatalmazott adhatja be, tehát első lépésként mindenki válasszon meghatalmazottat, ha kell, szerezzen MVH és magyarorszag.hu ügyfélkapus azonosítót.</span></p><p style="text-align: justify;"><span style="font-size: small;">Azt, hogy ki, mire, mennyiért pályázhat, a sok jogszabályi utalás magyarázatával tettük átláthatóbbá, az alábbiak szerint!</span></p><p>(Ha további kérdése van, keressen minket bátran az info@goldconsulting.eu címen)<span style="font-size: small;"><!--break--><!--[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG></o>

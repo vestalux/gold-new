@@ -1,11 +1,12 @@
 ---
-layout: post
 title: 'Erre lehet pályázni 2015 áprilisától:'
-created: 1427697003
+date: 2015-03-30 00:00:00 Z
 categories:
-- !binary |-
-  cMOhbHnDoXphdA==
+- pályázat
+layout: post
+created: 1427697003
 ---
+
 <p><span style="font-size: medium;">Ön is megkapta a Magyar Közlönyből kivágott, több oldalas táblázatot? Mi is, sőt, le is szűrtűk önnek, hogy milyen támogatások várhatók rövidtávon!</span><br><span style="font-size: medium;"><!--break--><!--[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG></o>

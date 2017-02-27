@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Júliustól kezdődhet a KKV-k fejlesztése
-created: 1434356450
+date: 2015-06-15 00:00:00 Z
 categories:
-- !binary |-
-  cMOhbHnDoXphdA==
+- pályázat
+layout: post
+created: 1434356450
 ---
+
 Pályázat címe:
 
 Mikro -,kis- és középvállalkozások termelési

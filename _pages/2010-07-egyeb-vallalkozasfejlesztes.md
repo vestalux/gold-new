@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Egyéb vállalkozásfejlesztés
+permalink: "/egyeb-vallalkozasfejlesztes/"
+layout: page
 created: 1279106839
 categories: []
-permalink: /egyeb-vallalkozasfejlesztes/
 ---
+
 Cégünk egyéb vállalkozás fejlesztési tevékenységei biztosítják Partnereink  számára,   hogy a piac kihívásokra teljeskörűen felkészüljenek. Szolgáltatásaink:
 
 * Üzleti terv és megvalósíthatósági tanulmány készítése

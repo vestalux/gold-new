@@ -1,11 +1,12 @@
 ---
-layout: post
 title: 10 előírás munkaadóknak a felmondásról
-created: 1411630537
+date: 2014-09-25 00:00:00 Z
 categories:
-- !binary |-
-  bXVua2F2w6FsbGFsw6Fz
+- munkavállalás
+layout: post
+created: 1411630537
 ---
+
 <p>&nbsp;</p><p><!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>

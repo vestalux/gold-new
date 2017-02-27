@@ -1,40 +1,36 @@
-
-exclude:
-  - "/vendor/"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "README.md"
-  - "LICENSE.md"
-  - "*.gemspec"
-
-keep_files:
-  - "CNAME"
-  - ".git"
-  - ".gitignore"
-
-
-# Site settings
+---
 title: Gold Consulting
-subtitle: "Vállalkozásfejlesztés, projektgenerálás és forrásteremtés egy helyen"
-url: "https://vestalux.github.io" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+exclude:
+- "/vendor/"
+- Gemfile
+- Gemfile.lock
+- README.md
+- LICENSE.md
+- "*.gemspec"
+keep_files:
+- CNAME
+- ".git"
+- ".gitignore"
+subtitle: Vállalkozásfejlesztés, projektgenerálás és forrásteremtés egy helyen
+url: https://vestalux.github.io
 baseurl: "/gold-new"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
-include: ["_pages"]
-
+include:
+- _pages
 sass:
   style: compressed
-
 compress_html:
   clippings: all
   comments: all
   endings: all
-
-# Build settings
 markdown: kramdown
-
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
-
-permalink: /:categories/:title
+permalink: "/:categories/:title"

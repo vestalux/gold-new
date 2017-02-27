@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Új, összegtől függő szabályozások ÁFA és számlák terén, kötelező nyilatkozatok
-  2013-ban, alanyi mentesség határa"
-created: 1357896562
+title: Új, összegtől függő szabályozások ÁFA és számlák terén, kötelező nyilatkozatok
+  2013-ban, alanyi mentesség határa
+date: 2013-01-11 00:00:00 Z
 categories:
-- !binary |-
-  dsOhbGxhbGtvesOhcw==
+- vállalkozás
+layout: post
+created: 1357896562
 ---
+
 <p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; mso-outline-level: 3;">&nbsp;<span style="font-size: 13.5pt; font-family: 'Times New Roman','serif';"><img src="/sites/goldconsulting.eu/files/img/08.jpg" style="float: left; border: 4px " height="117" width="90">Azon számlák esetében, amelyek ÁFA tartalma 2 millió Ft, vagy a feletti összegű (Fontos: nem a számlán szereplő érték a meghatározó, hanem csak az ÁFA mértéke) a számláról tételes nyilatkozatot kell tenni az Adóhivatal felé. Ez az eladónak és a vevőnek is kötelezettsége, az alábbiak szerint:</span></p><p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; mso-outline-level: 3;"><!--break--><!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
