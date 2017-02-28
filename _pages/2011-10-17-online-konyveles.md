@@ -103,7 +103,7 @@ ___________________________________________________________________
 
 *   1 fő bérszámfejtése  
 
-**Gazdasági társaságok II. díjkategória – 25.000 Ft +áfa**
+### Gazdasági társaságok II. díjkategória – 25.000 Ft +áfa
 
 *   50 db bejövő számla vagy
 *   50 db kimenő számla vagy
@@ -113,7 +113,7 @@ ___________________________________________________________________
 
 *   1 fő bérszámfejtése  
 
-**Gazdasági társaságok III. díjkategória – 40.000 Ft +áfa**
+### Gazdasági társaságok III. díjkategória – 40.000 Ft +áfa
 
 *   100 db bejövő számla vagy  
 
