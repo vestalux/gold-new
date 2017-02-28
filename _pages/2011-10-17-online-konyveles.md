@@ -3,7 +3,49 @@ title: Online könyvelés
 permalink: "/online-konyveles/"
 layout: page
 created: 1318843015
-categories: []
+categories: 
 ---
+Cégünk könyvelő, bérszámfejtő, adótanácsadó tevékenységet végez. Munkatársaink több éves szakmai tapasztalattal rendelkeznek, megbízható és naprakész tanácsokkal látják el vállalkozását. Ha könyvelőirodánkat választja, az alábbi előnyöket élvezi:<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
 
-<p>Cégünk könyvelő, bérszámfejtő, adótanácsadó tevékenységet végez. Munkatársaink több éves szakmai tapasztalattal rendelkeznek, megbízható és naprakész tanácsokkal látják el vállalkozását. Ha könyvelőirodánkat választja, az alábbi előnyöket élvezi:<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span></p><ul><li>Stabil, megbízható, naprakész információkat biztosító könyvelés.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span></li><li>Pontos bérszámfejtés.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span></li><li>Teljes diszkréció.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span></li><li>Gondoskodó ügyfélkapcsolat, amelyben mi figyelünk Önre.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span></li><li>Optimális adófizetés - mert mi figyelünk az Ön "pénztárcájára" is.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span></li><li>Rendszeres tanácsadáson alapuló együttműködés.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span></li><li>Munkánkért vállaljuk a felelősséget!<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span></li><li>Korrekt árak.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span></li></ul><p>Minden ügyfelünk számára elérhető ONLINE könyvelési rendszerünk.</p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;">Szeretné, ha cége könyvelése <strong>precíz</strong>, <strong>informatív</strong> és <strong>naprakész</strong> lenne? Ha a könyvelt bizonylatok, számlák és az ebből készített könyvviteli dokumentumok az internet segítségével <strong>mindig elérhetők</strong> lennéken bárhol is jár a világon?</p><p style="text-align: center;">A megoldás...</p><p style="text-align: center;"></p><p style="text-align: center;">a Gold Consulting<br><strong><span style="font-size: medium;">ONLINE KÖNYVELÉSI RENDSZERE</span></strong></p><p style="text-align: justify;">Válassza a Gold Consulting online számviteli szolgáltatásait, melyek - az internet nyújtotta lehetőségekre építve – jelentős többletszolgáltatást és előnyt nyújt a hagyományos könyveléshez képest.</p><p><strong>Az online könyvelés előnyei:</strong></p><ul><li style="text-align: justify;">Nincs szükség a bizonylatok fizikai mozgatására</li><li style="text-align: justify;">Teljes körű és naprakész információt nyújtunk a vállalkozása pénzügyi, számviteli, adózási helyzetéről, mely a nap 24 órájában elérhető</li><li style="text-align: justify;">Nem kell időpontot egyeztetni, nincs szükség várakozásra, mivel a bizonylatok feldolgozása után minden adat és információ (kivonatok, statisztikák, béradatok, stb) az egyedileg kialakított felületen a vállalkozása rendelkezésére állnak.</li><li style="text-align: justify;">Az elektronikus irattár rendszerből bármikor azonnal előkereshető több évre visszamenőleg is, az adózó minden bizonylata és a feldolgozás eredményei.</li><li style="text-align: justify;">Költséghatékonyabb a hagyományos könyveléshez képest</li><li style="text-align: justify;">Ingyenes szoftvert és betanítást biztosítunk az online felület használatához, melyhez Ön rendel bejelentkezési jelszót, így biztosítva a maximális adatbiztonságot.</li></ul><p><strong>Szolgáltatásunk lefedi a könyvelés teljes körét:</strong></p><p><strong><br></strong></p><p style="text-align: justify;">Rugalmasan illeszkedik az ügyfelek igényeihez, a földrajzi távolság akadálya nélkül, hisz az online könyvelési rendszer bárhonnan bármikor elérhető.<br><br> Gold Consulting munkatársai nagy tapasztalattal rendelkező mérlegképes könyvelők, közgazdászok, akik több éve dolgoznak e szakterületen, mely biztosíték arra, hogy Ön a könyveléssel kapcsolatos kérdéseire - akár online is - szakszerű választ kapjon.<br><br> Az online könyvelés eredménye a gyors problémamegoldás, a maximális ügyfél-centrikusság, titoktartás, a teljes szakmai felelősség és garancia vállalás.<br><br> Bővebb információért keresse ügyfélszolgálatunkat
+*   Stabil, megbízható, naprakész információkat biztosító könyvelés.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
+*   Pontos bérszámfejtés.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
+*   Teljes diszkréció.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
+*   Gondoskodó ügyfélkapcsolat, amelyben mi figyelünk Önre.
+*   Rendszeres tanácsadáson alapuló együttműködés.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
+*   Munkánkért vállaljuk a felelősséget!<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
+*   Korrekt árak.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
+
+Minden ügyfelünk számára elérhető ONLINE könyvelési rendszerünk.
+
+Szeretné, ha cége könyvelése **precíz**, **informatív** és **naprakész** lenne? Ha a könyvelt bizonylatok, számlák és az ebből készített könyvviteli dokumentumok az internet segítségével **mindig elérhetők** lennéken bárhol is jár a világon?
+{:style="text-align: justify;"}
+
+A megoldás...
+{:style="text-align: center;"}
+
+a Gold Consulting  
+**<span style="font-size: medium;">ONLINE KÖNYVELÉSI RENDSZERE</span>**
+{:style="text-align: center;"}
+
+Válassza a Gold Consulting online számviteli szolgáltatásait, melyek - az internet nyújtotta lehetőségekre építve – jelentős többletszolgáltatást és előnyt nyújt a hagyományos könyveléshez képest.
+{:style="text-align: justify;"}
+
+**Az online könyvelés előnyei:**
+
+*   Nincs szükség a bizonylatok fizikai mozgatására
+*   Teljes körű és naprakész információt nyújtunk a vállalkozása pénzügyi, számviteli, adózási helyzetéről, mely a nap 24 órájában elérhető
+*   Nem kell időpontot egyeztetni, nincs szükség várakozásra, mivel a bizonylatok feldolgozása után minden adat és információ (kivonatok, statisztikák, béradatok, stb) az egyedileg kialakított felületen a vállalkozása rendelkezésére állnak.
+*   Az elektronikus irattár rendszerből bármikor azonnal előkereshető több évre visszamenőleg is, az adózó minden bizonylata és a feldolgozás eredményei.
+*   Költséghatékonyabb a hagyományos könyveléshez képest
+*   Ingyenes szoftvert és betanítást biztosítunk az online felület használatához, melyhez Ön rendel bejelentkezési jelszót, így biztosítva a maximális adatbiztonságot.
+
+**Szolgáltatásunk lefedi a könyvelés teljes körét:**
+
+Rugalmasan illeszkedik az ügyfelek igényeihez, a földrajzi távolság akadálya nélkül, hisz az online könyvelési rendszer bárhonnan bármikor elérhető.  
+
+Gold Consulting munkatársai nagy tapasztalattal rendelkező mérlegképes könyvelők, közgazdászok, akik több éve dolgoznak e szakterületen, mely biztosíték arra, hogy Ön a könyveléssel kapcsolatos kérdéseire - akár online is - szakszerű választ kapjon.  
+
+Az online könyvelés eredménye a gyors problémamegoldás, a maximális ügyfél-centrikusság, titoktartás, a teljes szakmai felelősség és garancia vállalás.  
+
+Bővebb információért keresse ügyfélszolgálatunkat
+{:style="text-align: justify;"}
