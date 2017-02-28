@@ -1,6 +1,6 @@
 ---
 title: Bérszámfejtés
-layout: post
+layout: page
 author: Gold Consulting
 date: '2017-02-28T15:30:59+00:00'
 permalink: "/berszamfejtes/"
