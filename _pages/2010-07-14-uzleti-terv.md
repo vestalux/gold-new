@@ -1,6 +1,6 @@
 ---
 title: Üzleti terv és megvalósíthatósági tanulmány készítése
-permalink: "/uzleti-terv/"
+permalink: "/uzleti-tervezes/"
 layout: page
 created: 1279108276
 categories: []
