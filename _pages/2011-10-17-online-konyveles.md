@@ -1,51 +1,128 @@
 ---
-title: Online könyvelés
-permalink: "/online-konyveles/"
+title: Könyvelés
+permalink: "/konyveles/"
 layout: page
 created: 1318843015
 categories: 
 ---
-Cégünk könyvelő, bérszámfejtő, adótanácsadó tevékenységet végez. Munkatársaink több éves szakmai tapasztalattal rendelkeznek, megbízható és naprakész tanácsokkal látják el vállalkozását. Ha könyvelőirodánkat választja, az alábbi előnyöket élvezi:<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
+Cégünk könyvelő, bérszámfejtő, adótanácsadó tevékenységet végez. Munkatársaink több éves szakmai tapasztalattal rendelkeznek, megbízható és naprakész számviteli tanácsokkal látják el vállalkozását. 
 
-*   Stabil, megbízható, naprakész információkat biztosító könyvelés.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
-*   Pontos bérszámfejtés.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
-*   Teljes diszkréció.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
+## Ha könyvelőirodánkat választja, az alábbi előnyöket élvezi:
+
+*   Stabil, megbízható, naprakész információkat biztosító könyvelés.
+*   Pontos bérszámfejtés.
+*   Teljes diszkréció.
 *   Gondoskodó ügyfélkapcsolat, amelyben mi figyelünk Önre.
-*   Rendszeres tanácsadáson alapuló együttműködés.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
-*   Munkánkért vállaljuk a felelősséget!<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
-*   Korrekt árak.<span style="text-decoration: underline;"></span><span style="text-decoration: underline;"></span>
+*   Rendszeres tanácsadáson alapuló együttműködés.
+*   Munkánkért vállaljuk a felelősséget!
+*   Korrekt árak
+*   Minden ügyfél számára elérhető távügyviteli rendszer tárhellyel
+*   Naprakész információk a könyvelésből nyert adatokból, melyet akár mobil eszközről is megtekinthet.
+*   Monitoring rendszer, vezetői riportok, melyek segítenek gazdasági döntések meghozatalában.
 
-Minden ügyfelünk számára elérhető ONLINE könyvelési rendszerünk.
+## Szolgáltatásunk lefedi a teljeskörű könyvelést:
 
-Szeretné, ha cége könyvelése **precíz**, **informatív** és **naprakész** lenne? Ha a könyvelt bizonylatok, számlák és az ebből készített könyvviteli dokumentumok az internet segítségével **mindig elérhetők** lennéken bárhol is jár a világon?
-{:style="text-align: justify;"}
+*   Rugalmasan illeszkedik az ügyfelek igényeihez, a földrajzi távolság akadálya nélkül, a távkönyvelési rendszer bárhonnan bármikor elérhető.
+*   Irodánkat a gyors problémamegoldás, a maximális ügyfél-centrikusság, titoktartás, a teljes szakmai felelősség és garancia vállalás jellemzi.
 
-A megoldás...
-{:style="text-align: center;"}
+## 2017 évi díjtáblázatunk:
 
-a Gold Consulting  
-**<span style="font-size: medium;">ONLINE KÖNYVELÉSI RENDSZERE</span>**
-{:style="text-align: center;"}
+### Egyéni vállalkozó (alanyi ÁFA mentes) – 8.500 Ft/hó +áfa
 
-Válassza a Gold Consulting online számviteli szolgáltatásait, melyek - az internet nyújtotta lehetőségekre építve – jelentős többletszolgáltatást és előnyt nyújt a hagyományos könyveléshez képest.
-{:style="text-align: justify;"}
+*   adóbevallások készítése
+*   bérszámfejtés 1 főig
+*   havi 50 db bizonylatig (tételig)
 
-**Az online könyvelés előnyei:**
+### Egyéni vállalkozó ( ÁFA-s) – 12.000 Ft/hó +áfa
 
-*   Nincs szükség a bizonylatok fizikai mozgatására
-*   Teljes körű és naprakész információt nyújtunk a vállalkozása pénzügyi, számviteli, adózási helyzetéről, mely a nap 24 órájában elérhető
-*   Nem kell időpontot egyeztetni, nincs szükség várakozásra, mivel a bizonylatok feldolgozása után minden adat és információ (kivonatok, statisztikák, béradatok, stb) az egyedileg kialakított felületen a vállalkozása rendelkezésére állnak.
-*   Az elektronikus irattár rendszerből bármikor azonnal előkereshető több évre visszamenőleg is, az adózó minden bizonylata és a feldolgozás eredményei.
-*   Költséghatékonyabb a hagyományos könyveléshez képest
-*   Ingyenes szoftvert és betanítást biztosítunk az online felület használatához, melyhez Ön rendel bejelentkezési jelszót, így biztosítva a maximális adatbiztonságot.
+*   adóbevallások készítése
+*   bérszámfejtés 1 főig
+*   havi 50 db bizonylatig (tételig)  
 
-**Szolgáltatásunk lefedi a könyvelés teljes körét:**
+### Egyéni vállalkozó ( ÁFA-s) – 20.000 Ft/hó +áfa
 
-Rugalmasan illeszkedik az ügyfelek igényeihez, a földrajzi távolság akadálya nélkül, hisz az online könyvelési rendszer bárhonnan bármikor elérhető.  
+*   adóbevallások készítése
+*   bérszámfejtés 1 főig
+*   havi 100 db bizonylatig (tételig)  
 
-Gold Consulting munkatársai nagy tapasztalattal rendelkező mérlegképes könyvelők, közgazdászok, akik több éve dolgoznak e szakterületen, mely biztosíték arra, hogy Ön a könyveléssel kapcsolatos kérdéseire - akár online is - szakszerű választ kapjon.  
+_________________________________________________________________________
 
-Az online könyvelés eredménye a gyors problémamegoldás, a maximális ügyfél-centrikusság, titoktartás, a teljes szakmai felelősség és garancia vállalás.  
+### Társadalmi vállalkozások I. díjkategória (nem áfás) – 8.000 Ft/hó +áfa
 
-Bővebb információért keresse ügyfélszolgálatunkat
-{:style="text-align: justify;"}
+*   25 db bejövő-kimenő számla  
+
+*   1 db bankszámla vezetése  
+
+*   1 db házipénztár vezetése  
+
+*   1 fő bérszámfejtése  
+
+### Társadalmi vállalkozások (áfás) II. díjkategória– 12.000 Ft/hó +áfa
+
+*   25 db bejövő-kimenő számla  
+
+*   1 db bankszámla vezetése  
+
+*   1 db házipénztár vezetése  
+
+*   1 fő bérszámfejtése
+*   Társadalmi vállalkozások (áfás) III. díjkategória– 15.000 Ft/hó +áfa
+*   50 db bejövő számla, kimenő számla  
+
+*   1 db bankszámla vezetése  
+
+*   1 db házipénztár vezetése  
+
+*   1 fő bérszámfejtése  
+
+### Társadalmi vállalkozások (áfás) IV. díjkategória– 25.000 Ft/hó +áfa
+
+*   100 db bejövő számla vagy  
+
+*   100 db kimenő számla vagy  
+
+*   1 db bankszámla vezetése  
+
+*   1 db házipénztár vezetése  
+
+*   1 fő bérszámfejtése  
+
+Áraink külkereskedelmi tevékenység, támogatás elkülönített könyvelése, pénztárgép, banki terminál használata esetén változhatnak, illetve magasabb könyvelési tételszám felett egyedi árajánlatot készítünk!
+
+___________________________________________________________________
+
+### Gazdasági társaságok I. díjkategória – 15.000 Ft +áfa
+
+*   25 db bejövő számla vagy  
+
+*   25 db kimenő számla vagy  
+
+*   1 db bankszámla vezetése  
+
+*   1 db házipénztár vezetése  
+
+*   1 fő bérszámfejtése  
+
+**Gazdasági társaságok II. díjkategória – 25.000 Ft +áfa**
+
+*   50 db bejövő számla vagy
+*   50 db kimenő számla vagy
+*   1 db bankszámla vezetése  
+
+*   1 db házipénztár vezetése  
+
+*   1 fő bérszámfejtése  
+
+**Gazdasági társaságok III. díjkategória – 40.000 Ft +áfa**
+
+*   100 db bejövő számla vagy  
+
+*   100 db kimenő számla vagy  
+
+*   1 db bankszámla vezetése  
+
+*   1 db házipénztár vezetése  
+
+*   1 fő bérszámfejtése  
+
+Áraink külkereskedelmi tevékenység, támogatás elkülönített könyvelése, pénztárgép, banki terminál használata esetén változhatnak, illetve magasabb könyvelési tételszám felett egyedi árajánlatot készítünk!
