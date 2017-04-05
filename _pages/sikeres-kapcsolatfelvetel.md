@@ -5,3 +5,16 @@ layout: page
 ---
 <p>
 Üzenetét rendszerünk sikeresen továbbította. Tanácsadónk hamarosan felkeresi Önt</p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
