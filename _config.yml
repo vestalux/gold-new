@@ -21,7 +21,6 @@ keep_files:
 - ".gitignore"
 subtitle: Vállalkozásfejlesztés, projektgenerálás és forrásteremtés egy helyen
 url: http://goldconsulting.eu
-baseurl: "/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 include:
