@@ -20,8 +20,8 @@ keep_files:
 - ".git"
 - ".gitignore"
 subtitle: Vállalkozásfejlesztés, projektgenerálás és forrásteremtés egy helyen
-url: https://vestalux.github.io
-baseurl: "/gold-new"
+url: http://goldconsulting.eu
+baseurl: "/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 include:
