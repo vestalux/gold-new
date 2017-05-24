@@ -50,7 +50,7 @@ layout: default
 <div class="post-area">
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
   <p>
-    {{ post.content | strip_html | truncatewords: 50 | slice: -8 }}
+    {{ post.content | strip_html | truncate: 80 }}
   </p>
       </div>
 {% endfor %}
