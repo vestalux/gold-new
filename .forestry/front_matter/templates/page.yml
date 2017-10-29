@@ -1,0 +1,32 @@
+---
+pages:
+- _pages/hiteltanacsadas.md
+- _pages/berszamfejtes.md
+hide_body: false
+fields:
+- name: title
+  type: text
+  label: Title
+  config:
+    required: true
+- name: subtitle
+  type: text
+  label: subtitle
+- name: layout
+  type: select
+  label: layout
+  config:
+    required: true
+    source:
+      type: simple
+    options:
+    - page
+    - post
+  hidden: false
+  default: page
+- type: text
+  label: permalink
+  name: permalink
+  default: "/{{ page.title }}/"
+  config:
+    required: true

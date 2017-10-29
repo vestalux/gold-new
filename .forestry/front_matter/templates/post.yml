@@ -1,0 +1,30 @@
+---
+pages:
+- _posts/varhatoan-2017-november-30-tol-adhato-be-a-ginop-2-1-8-17-jelu-eszkozbeszerzes-palyazat.md
+- _posts/teszt.md
+- _posts/2017-02-27-palyazat-tarsadalmi-vallalkozasoknak.md
+- _posts/2017-02-27-segitunk-a-megfelelo-palyazat-kivalasztasaban-1.md
+- _posts/segitunk-a-megfelelo-palyazat-kivalasztasaban.md
+hide_body: false
+fields:
+- name: title
+  type: text
+  label: Title
+  config:
+    required: true
+- name: date
+  type: datetime
+  label: Date
+- name: layout
+  type: text
+  label: Layout
+  hidden: true
+  default: post
+  config:
+    required: true
+- name: author
+  type: text
+  label: Author
+  config:
+    required: true
+  default: Gold Consulting
