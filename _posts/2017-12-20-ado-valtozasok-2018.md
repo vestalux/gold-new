@@ -8,17 +8,20 @@ date: 2017-12-20 12:55:26 +0000
 
 ## Munkavégzésre irányuló egyéb jogviszonyoknál a járulékfizetési kötelezettség megállapításához
 
+
 | --- | --- | --- | --- |
 |    **Minimálbér**    |    |    **30%**    |    **30-ad rész**    |
 |    2018.01.01-jétől    |    138 000   Ft    |    41 400   Ft    |     1380   Ft    |
 
 ## Társas és egyéni vállalkozó járulékfizetési kötelezettsége megállapításához
 
+
 | --- | --- |--- |
 |    **A minimálbér összege**    |   |     **30-ad része**    |
 |    2018.01.01-jétől    |    138 000 Ft    |     4600 Ft    |
 
 ## A garantált bérminimum összege
+
 
 | --- | --- | --- |
 |    **Havi  összege\***    |   |    **30-ad része**    |
@@ -35,7 +38,7 @@ date: 2017-12-20 12:55:26 +0000
 | 2017 | 23,5% | 127500 | 161000 |
 | 2018 | 21% | 138000 | 180500 |
 
-## Szociális hozzájárulási adó kedvezmények 2018.
+# Szociális hozzájárulási adó kedvezmények 2018.
 
 Az alábbi táblázatban foglaljuk össze a 2018-ban igénybe vehető szociális hozzájárulási adókedvezményeket, kiegészítve azzal, hogy milyen hatósági igazolások szükségesek az egyes kedvezmények érvényesítéséhez és melyik kedvezményeknél kell a részmunkaidős foglalkoztatás kapcsán arányosítást alkalmazni.
 
@@ -57,13 +60,13 @@ Az alábbi táblázatban foglaljuk össze a 2018-ban igénybe vehető szociális
 |    Szakképzettséget   nem igénylő munkakörben foglalkoztatottak utáni kedvezmény.    |    A bruttó   munkabér, de legfeljebb 100 000 Ft 9,75 százalékával csökkenthető az adó.    |
 |    Tartósan   álláskeresők után igénybe vehető kedvezmény    |    Az adó a   bruttó munkabér, de legfeljebb 100 000 Ft 19,5 százalékával csökkenthető a   foglalkoztatás első két évében, míg a foglalkoztatás harmadik évében a fenti   csökkentés az aktuális szociális hozzájárulási adó fele, ami 2018-ban 9,75   százalék.\*    |
 
-**Egészségügyi hozzájárulás és EKHO**
+# Egészségügyi hozzájárulás és EKHO
 
 Az egészségügyi hozzájárulás 22 százalékos mértékű kulcsa is csökken 19,5 százalékra. A változás  értelemszerűen kihat egyes cafeteria-juttatások után fizetendő közterhekre is: az egyes meghatározott juttatások esetében az adóterhelés 43,66 százalék helyett 40,71 százalékra változik.
 
 Az egyszerűsített közteherviselési hozzájárulás (ekho) szabályai is módosulnak, amelynek értelmében a kifizetőt terhelő ekho 20-ról 19,5 százalékra csökken
 
-**KATA**
+# KATA
 
 A törvény kibővíti a kisadózók tételes adójának választására jogosultak körét az ügyvédi irodákkal.
 
@@ -73,7 +76,7 @@ A főállású kisadózók által igénybevett pénzbeli ellátások alapja 94 4
 
 Nappali tagozatos kisadózó KATA- főállásúnak nem minősülő kisadózónak minősülnek,  havi 25 ezer forint tételes adót kell megfizetniük 2018. január 1-től
 
-**Általános forgalmi adó**
+# Általános forgalmi adó
 
 Az ún. tételes adatszolgáltatási kötelezettség (más néven belföldi összesítő nyilatkozat) értékhatára 2018. július 1-jétől csökken 1 millió forintról 100 ezer forintos ÁFA tartalomra.
 
@@ -87,11 +90,9 @@ Megjegyzés: Az ÁFA  alanyi adómentességet árbevételi határának emelésé
 
 # KIVA
 
-A kisvállalati adó mértéke az idei 14 százalékról 13 százalékra csökken 2018-tól.
-
-Emelkedik az egyszerűsített foglalkoztatás napidíja
-
-Az egyszerűsített foglalkoztatásból származó adómentes napi jövedelem jövőre 8.255 forint lesz.
+* A kisvállalati adó mértéke az idei 14 százalékról 13 százalékra csökken 2018-tól.
+* Emelkedik az egyszerűsített foglalkoztatás napidíja
+* Az egyszerűsített foglalkoztatásból származó adómentes napi jövedelem jövőre 8.255 forint lesz.
 
 # Személyi jövedelemadó
 
@@ -105,9 +106,8 @@ Az egyszerűsített foglalkoztatásból származó adómentes napi jövedelem j�
 
 Egy külön módosító törvény alapján a fejlesztési adókedvezmény a jövőben két új jogcímen is igénybe vehető lesz:
 
-•	jelenértéken legalább 6 milliárd forint értékű beruházás és
-
-•	a jelenértéken legalább 3 milliárd forint értékű munkahelyteremtést szolgáló beruházás üzembe helyezése esetén.
+* jelenértéken legalább 6 milliárd forint értékű beruházás és
+* a jelenértéken legalább 3 milliárd forint értékű munkahelyteremtést szolgáló beruházás üzembe helyezése esetén.
 
 Mindkét esetben feltétel, hogy a beruházást nagyvállalkozás valósítsa meg a Közép-magyarországi régió támogatható településein, és az termék-diverzifikációt eredményező induló beruházásnak, vagy új eljárási innovációt eredményező induló beruházásnak minősüljön. Feltétel továbbá a Kormány határozatban foglalt jóváhagyása, melyhez viszont az Európai Bizottság engedélye is szükséges. A kedvezmény ráadásul létszám bővítésre, vagy bérköltség-növelésre vonatkozó vállaláshoz is kötött.
 
