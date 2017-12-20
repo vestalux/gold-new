@@ -4,22 +4,21 @@ layout: post
 author: Gold Consulting
 date: 2017-12-20 12:55:26 +0000
 ---
-## **Minimálbér, garantált bérminimum változások**
+# **Minimálbér, garantált bérminimum változások**
 
-### Munkavégzésre irányuló egyéb jogviszonyoknál a járulékfizetési kötelezettség megállapításához
+## Munkavégzésre irányuló egyéb jogviszonyoknál a járulékfizetési kötelezettség megállapításához
 
-| --- | --- | --- |
-|    **Minimálbér**    |    **30%**    |    **30-ad rész**    |
+| --- | --- | --- | --- |
+|    **Minimálbér**    |    |    **30%**    |    **30-ad rész**    |
 |    2018.01.01-jétől    |    138 000   Ft    |    41 400   Ft    |     1380   Ft    |
 
-### Társas és egyéni vállalkozó járulékfizetési kötelezettsége megállapításához
+## Társas és egyéni vállalkozó járulékfizetési kötelezettsége megállapításához
 
 | --- | --- |--- |
 |    **A minimálbér összege**    |   |     **30-ad része**    |
-|         |         |
 |    2018.01.01-jétől    |    138 000 Ft    |     4600 Ft    |
 
-### A garantált bérminimum összege
+## A garantált bérminimum összege
 
 | --- | --- | --- |
 |    **Havi  összege\***    |   |    **30-ad része**    |
@@ -27,11 +26,16 @@ date: 2017-12-20 12:55:26 +0000
 
 \*a legalább középfokú iskolai végzettséget, illetőleg középfokú szakképzettséget igénylő munkakörben foglalkoztatott munkavállaló által, a teljes munkaidő teljesítése esetén is a garantált bérminimumot kell alkalmazni
 
-**Szociális hozzájárulási adó**
+# Szociális hozzájárulási adó
 
 2018\. január 1-től  19,5 százalékra a szociális hozzájárulási adó. A társaságokat terhelő bérköltség tehát - elvileg - tovább mérséklődhet.
 
-**Szociális hozzájárulási adó kedvezmények 2018.**
+| --- | --- | --- | --- |
+| **Naptári év** | **Szociális hozzájárulási adó (és szakképzési hozzájárulás)** | **Minimálbér (Ft)** | **Garantált bérminimum (Ft)** |
+| 2017 | 23,5% | 127500 | 161000 |
+| 2018 | 21% | 138000 | 180500 |
+
+## Szociális hozzájárulási adó kedvezmények 2018.
 
 Az alábbi táblázatban foglaljuk össze a 2018-ban igénybe vehető szociális hozzájárulási adókedvezményeket, kiegészítve azzal, hogy milyen hatósági igazolások szükségesek az egyes kedvezmények érvényesítéséhez és melyik kedvezményeknél kell a részmunkaidős foglalkoztatás kapcsán arányosítást alkalmazni.
 
@@ -81,7 +85,7 @@ Az éttermi szolgáltatások áfa kulcsa, amely 2017 januárjától 27 százalé
 
 Megjegyzés: Az ÁFA  alanyi adómentességet árbevételi határának emelését még nem szavazta meg az Országgyűlés, a tervezett 12 milliós értékhatár elfogadása az  Európai Uniós engedélyeztetésre vár, amennyiben a kormány deregulációs indítványának helyt adnak az kedvezően hat a kisvállalkozásokra, különösen a KATA szerint adózókra, hisz az alanyi adómentesség értékhatára egybe fog esni, a KATA értékhatárával, ami lényegesen tágítani fogja az érintett vállalkozók mozgásterét.
 
-**KIVA**
+# KIVA
 
 A kisvállalati adó mértéke az idei 14 százalékról 13 százalékra csökken 2018-tól.
 
@@ -89,7 +93,7 @@ Emelkedik az egyszerűsített foglalkoztatás napidíja
 
 Az egyszerűsített foglalkoztatásból származó adómentes napi jövedelem jövőre 8.255 forint lesz.
 
-**Személyi jövedelemadó**
+# Személyi jövedelemadó
 
 * A legfontosabb változás, hogy a munkáltatói adómegállapítás lehetősége 2018-tól megszűnik, de a munkáltatók már 2017. évre vonatkozóan sem készíthetik el dolgozóik adóelszámolását. Korábban legalább 7-800 ezer dolgozó bevallása ezzel a módszerrel készült. A jövőben tehát a magánszemélyek már csak önadózással állapíthatják meg adójukat, méghozzá önállóan, vagy az adóhatóság közreműködésével, adóbevallási tervezet segítségével
 * Újdonság, hogy az adóhatóság a mezőgazdasági őstermelők, az általános forgalmi adó fizetésére kötelezett magánszemélyek számára is készít bevallási tervezetet, első alkalommal a 2017. évre vonatkozóan. A magánszemély ezt a tervezetet kiegészítheti vagy adóhatósági közreműködés nélkül nyújthat be szja-bevallást.
@@ -97,7 +101,7 @@ Az egyszerűsített foglalkoztatásból származó adómentes napi jövedelem j�
 * A lakásbérlet eho - 2018. január 1-jétől nem kell 14%-os mértékű egészségügyi hozzájárulást fizetniük a lakást bérbeadó magánszemélyeknek az évi 1 millió forint feletti ingatlan bérbeadásból származó jövedelmük után. További változás, hogy ha például a házastársak közös tulajdonában álló ingatlanhoz kapcsolódó adókötelezettséget teljes egészében az egyik házastárs teljesíti, akkor a párja nevére szóló számlákat (például rezsiköltséget) is elszámolhatja.
 * A munkáltató által biztosított albérlet adómentessége -  munkáltató által adómentesen adható mobilitási célú lakhatási támogatás mértéke a foglalkoztatás első két évében – melyet azonban 2018-tól kell számolni – a minimálbér 40 százalékáról 60 százalékára nő.
 
-**Társasági adó**
+# Társasági adó
 
 Egy külön módosító törvény alapján a fejlesztési adókedvezmény a jövőben két új jogcímen is igénybe vehető lesz:
 
@@ -107,6 +111,6 @@ Egy külön módosító törvény alapján a fejlesztési adókedvezmény a jöv
 
 Mindkét esetben feltétel, hogy a beruházást nagyvállalkozás valósítsa meg a Közép-magyarországi régió támogatható településein, és az termék-diverzifikációt eredményező induló beruházásnak, vagy új eljárási innovációt eredményező induló beruházásnak minősüljön. Feltétel továbbá a Kormány határozatban foglalt jóváhagyása, melyhez viszont az Európai Bizottság engedélye is szükséges. A kedvezmény ráadásul létszám bővítésre, vagy bérköltség-növelésre vonatkozó vállaláshoz is kötött.
 
-**Transzferár**
+# Transzferár
 
 2018-tól a szokásos piaci ár-megállapítási eljárás (APA) szabályai módosulnak. Egyrészt könnyítés az, hogy a kérelmeket elektronikus úton kell beadni a jövőben. Másrészt az adóhatósággal való első kapcsolatfelvétel, amikor a kérelem beadása előtti anonim egyeztetésre van lehetőség, a jövőben alkalmanként 500.000 forint igazgatási szolgáltatási díj befizetésével fog járni. Mivel a többi díjtétel nem változik, javasoljuk, hogy a potenciális kérelmezők az előzetes egyeztetési időpontjaikat még a 2017-es évre foglalják le az adóhatóságnál. Itt jegyezzük meg, hogy a transzferár-dokumentáció részletes szabályait új rendelet tartalmazza (a 32/2017. (X. 18.) NGM rendelet).
