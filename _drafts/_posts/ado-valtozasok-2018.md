@@ -29,11 +29,11 @@ date: 2017-12-20 12:55:26 +0000
 
 \*a legalább középfokú iskolai végzettséget, illetőleg középfokú szakképzettséget igénylő munkakörben foglalkoztatott munkavállaló által, a teljes munkaidő teljesítése esetén is a garantált bérminimumot kell alkalmazni
 
-**Szociális hozzájárulási adó
+**Szociális hozzájárulási adó**
 
 2018\. január 1-től  19,5 százalékra a szociális hozzájárulási adó. A társaságokat terhelő bérköltség tehát - elvileg - tovább mérséklődhet.
 
-**Szociális hozzájárulási adó kedvezmények 2018.
+**Szociális hozzájárulási adó kedvezmények 2018.**
 
 Az alábbi táblázatban foglaljuk össze a 2018-ban igénybe vehető szociális hozzájárulási adókedvezményeket, kiegészítve azzal, hogy milyen hatósági igazolások szükségesek az egyes kedvezmények érvényesítéséhez és melyik kedvezményeknél kell a részmunkaidős foglalkoztatás kapcsán arányosítást alkalmazni.
 
@@ -55,13 +55,13 @@ Az alábbi táblázatban foglaljuk össze a 2018-ban igénybe vehető szociális
 |    Szakképzettséget   nem igénylő munkakörben foglalkoztatottak utáni kedvezmény.    |    A bruttó   munkabér, de legfeljebb 100 000 Ft 9,75 százalékával csökkenthető az adó.    |
 |    Tartósan   álláskeresők után igénybe vehető kedvezmény    |    Az adó a   bruttó munkabér, de legfeljebb 100 000 Ft 19,5 százalékával csökkenthető a   foglalkoztatás első két évében, míg a foglalkoztatás harmadik évében a fenti   csökkentés az aktuális szociális hozzájárulási adó fele, ami 2018-ban 9,75   százalék.\*    |
 
-Egészségügyi hozzájárulás és EKHO
+**Egészségügyi hozzájárulás és EKHO**
 
 Az egészségügyi hozzájárulás 22 százalékos mértékű kulcsa is csökken 19,5 százalékra. A változás  értelemszerűen kihat egyes cafeteria-juttatások után fizetendő közterhekre is: az egyes meghatározott juttatások esetében az adóterhelés 43,66 százalék helyett 40,71 százalékra változik.
 
 Az egyszerűsített közteherviselési hozzájárulás (ekho) szabályai is módosulnak, amelynek értelmében a kifizetőt terhelő ekho 20-ról 19,5 százalékra csökken
 
-KATA
+**KATA**
 
 A törvény kibővíti a kisadózók tételes adójának választására jogosultak körét az ügyvédi irodákkal.
 
@@ -71,7 +71,7 @@ A főállású kisadózók által igénybevett pénzbeli ellátások alapja 94 4
 
 Nappali tagozatos kisadózó KATA- főállásúnak nem minősülő kisadózónak minősülnek,  havi 25 ezer forint tételes adót kell megfizetniük 2018. január 1-től
 
-Általános forgalmi adó
+**Általános forgalmi adó**
 
 Az ún. tételes adatszolgáltatási kötelezettség (más néven belföldi összesítő nyilatkozat) értékhatára 2018. július 1-jétől csökken 1 millió forintról 100 ezer forintos ÁFA tartalomra.
 
@@ -83,7 +83,7 @@ Az éttermi szolgáltatások áfa kulcsa, amely 2017 januárjától 27 százalé
 
 Megjegyzés: Az ÁFA  alanyi adómentességet árbevételi határának emelését még nem szavazta meg az Országgyűlés, a tervezett 12 milliós értékhatár elfogadása az  Európai Uniós engedélyeztetésre vár, amennyiben a kormány deregulációs indítványának helyt adnak az kedvezően hat a kisvállalkozásokra, különösen a KATA szerint adózókra, hisz az alanyi adómentesség értékhatára egybe fog esni, a KATA értékhatárával, ami lényegesen tágítani fogja az érintett vállalkozók mozgásterét.
 
-KIVA
+**KIVA**
 
 A kisvállalati adó mértéke az idei 14 százalékról 13 százalékra csökken 2018-tól.
 
@@ -91,7 +91,7 @@ Emelkedik az egyszerűsített foglalkoztatás napidíja
 
 Az egyszerűsített foglalkoztatásból származó adómentes napi jövedelem jövőre 8.255 forint lesz.
 
-Személyi jövedelemadó
+**Személyi jövedelemadó**
 
 * A legfontosabb változás, hogy a munkáltatói adómegállapítás lehetősége 2018-tól megszűnik, de a munkáltatók már 2017. évre vonatkozóan sem készíthetik el dolgozóik adóelszámolását. Korábban legalább 7-800 ezer dolgozó bevallása ezzel a módszerrel készült. A jövőben tehát a magánszemélyek már csak önadózással állapíthatják meg adójukat, méghozzá önállóan, vagy az adóhatóság közreműködésével, adóbevallási tervezet segítségével
 * Újdonság, hogy az adóhatóság a mezőgazdasági őstermelők, az általános forgalmi adó fizetésére kötelezett magánszemélyek számára is készít bevallási tervezetet, első alkalommal a 2017. évre vonatkozóan. A magánszemély ezt a tervezetet kiegészítheti vagy adóhatósági közreműködés nélkül nyújthat be szja-bevallást.
@@ -99,7 +99,7 @@ Személyi jövedelemadó
 * A lakásbérlet eho - 2018. január 1-jétől nem kell 14%-os mértékű egészségügyi hozzájárulást fizetniük a lakást bérbeadó magánszemélyeknek az évi 1 millió forint feletti ingatlan bérbeadásból származó jövedelmük után. További változás, hogy ha például a házastársak közös tulajdonában álló ingatlanhoz kapcsolódó adókötelezettséget teljes egészében az egyik házastárs teljesíti, akkor a párja nevére szóló számlákat (például rezsiköltséget) is elszámolhatja.
 * A munkáltató által biztosított albérlet adómentessége -  munkáltató által adómentesen adható mobilitási célú lakhatási támogatás mértéke a foglalkoztatás első két évében – melyet azonban 2018-tól kell számolni – a minimálbér 40 százalékáról 60 százalékára nő.
 
-Társasági adó
+**Társasági adó**
 
 Egy külön módosító törvény alapján a fejlesztési adókedvezmény a jövőben két új jogcímen is igénybe vehető lesz:
 
@@ -109,6 +109,6 @@ Egy külön módosító törvény alapján a fejlesztési adókedvezmény a jöv
 
 Mindkét esetben feltétel, hogy a beruházást nagyvállalkozás valósítsa meg a Közép-magyarországi régió támogatható településein, és az termék-diverzifikációt eredményező induló beruházásnak, vagy új eljárási innovációt eredményező induló beruházásnak minősüljön. Feltétel továbbá a Kormány határozatban foglalt jóváhagyása, melyhez viszont az Európai Bizottság engedélye is szükséges. A kedvezmény ráadásul létszám bővítésre, vagy bérköltség-növelésre vonatkozó vállaláshoz is kötött.
 
-Transzferár
+**Transzferár**
 
 2018-tól a szokásos piaci ár-megállapítási eljárás (APA) szabályai módosulnak. Egyrészt könnyítés az, hogy a kérelmeket elektronikus úton kell beadni a jövőben. Másrészt az adóhatósággal való első kapcsolatfelvétel, amikor a kérelem beadása előtti anonim egyeztetésre van lehetőség, a jövőben alkalmanként 500.000 forint igazgatási szolgáltatási díj befizetésével fog járni. Mivel a többi díjtétel nem változik, javasoljuk, hogy a potenciális kérelmezők az előzetes egyeztetési időpontjaikat még a 2017-es évre foglalják le az adóhatóságnál. Itt jegyezzük meg, hogy a transzferár-dokumentáció részletes szabályait új rendelet tartalmazza (a 32/2017. (X. 18.) NGM rendelet).
