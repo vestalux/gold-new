@@ -4,9 +4,6 @@ layout: post
 author: Gold Consulting
 date: 2017-12-20 12:55:26 +0000
 ---
-<p>&nbsp;</p>
-<p><strong><u>AD&Oacute; v&aacute;ltoz&aacute;sok 2018.</u></strong></p>
-<p><strong><u>&nbsp;</u></strong></p>
 <p><strong><em>Minim&aacute;lb&eacute;r, garant&aacute;lt b&eacute;rminimum v&aacute;ltoz&aacute;sok</em></strong></p>
 <ul>
 <li>Munkav&eacute;gz&eacute;sre ir&aacute;nyul&oacute; egy&eacute;b jogviszonyokn&aacute;l a j&aacute;rul&eacute;kfizet&eacute;si k&ouml;telezetts&eacute;g meg&aacute;llap&iacute;t&aacute;s&aacute;hoz</li>
