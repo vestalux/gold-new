@@ -29,6 +29,7 @@ fields:
   config:
     required: true
 pages:
+- sutikezelesi-tajekoztato.md
 - _pages/adatvedelmi-szabalyzat.md
 - _pages/hiteltanacsadas.md
 - _pages/berszamfejtes.md
