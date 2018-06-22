@@ -1,0 +1,15 @@
+---
+title: "ÁFA változás, online számlázás 2018.07.01"
+layout: post
+author: Gold Consulting
+date: 2018-06-22 13:53:52 +0200
+---
+Korábbi híreleveleinkben felhívtuk figyelmüket az ÁFA változásra és az online számlázás szabályaira. A határidő közeleg, ezért szeretnénk segítséget nyújtani az átálláshoz:
+
+ 
+
+1. VÁLTOZÁS: Az      általános forgalmi adóról szóló 2007. évi CXXVII. törvény 2018. július      1-jétől hatályos 10. számú mellékletében foglaltak szerint      adatszolgáltatási kötelezettség terheli az adóalanyt a legalább 100 ezer      forint áthárított általános forgalmi adót tartalmazó, belföldi adózók      közötti ügyleteiről kiállított számlákról, és 24 órán      belül az 500.000 Ft-ot meghaladó áfa      tartalmú számlákról.  A jogszabályváltozással      kapcsolatos gyakorlati ismereteket az alábbi videóban találja: [https://www.youtube.com/watch?v=lZGNY6lzK8k&feature=youtu.be](https://www.youtube.com/watch?v=lZGNY6lzK8k&feature=youtu.be "https://www.youtube.com/watch?v=lZGNY6lzK8k&feature=youtu.be")      
+2. **Számlázó      programot használ,** kéjük győződjön meg róla, hogy az      megfelel az online számlázás szabályainak, keresse fel a számlázó program      szolgáltatójának honlapját. A program frissítések tudomások szerint a      legnagyobb szolgáltatóknál már megtörténtek, néhánynál még folyamatban      vannak.
+3. Amennyiben      a számlázó program megfelel a feltételeknek, kérjük minden esetben végezze      el az adózói regisztrációt, hozza létre a technikai felhasználót. A      technikai felhasználó létrehozása eredményeként megkapjuk a technikai      felhasználó felhasználónevét, az XML aláírókulcsot, és az XML      cserekulcsot. Ezt a 3 adatot, valamint a technikai felhasználó      létrehozásakor megadott jelszót kell majd megadni a számlázó programban      ahhoz, hogy az adatszolgáltatást a program automatikusan el tudja végezni,      normál működés esetén ennél több feladatuk ezzel nem is lesz. **A regisztrációról      kérjük értesítse könyvelőirodánkat. Amennyiben technikai probléma merül      fel hívja irodánkat, vagy/és a számlázó program üzemeltetőjét.** 
+4. **Kézi      számlázás** esetén elegendő az adózói      regisztrációt az első 100.000 Ft-ot meghaladó ÁFA tartalmú számla      kiállítása előtt megtenni.  (ehhez kérje könyvelőirodánk segítségét)      Kézi számlázásnál a NAV adatszolgáltatást irodánk végzi, ehhez **24      órában szükséges a 100 e Ft ÁFA tartalmú számla eljuttatása scennelt      formában irodánkhoz.**
+5. Ingyenes NAV      számlázó program az adózó egyszeri regisztrációjável elérhető. NAV saját      fejlesztésű programja, díjmentes, használatához az ügyfélszolgálati irodák      adnak segítséget. Mivel a rendszerről még kevés a tapasztalat, egyenlőre      azoknak ajánljuk, akik kevés számlaforgalommal rendelkeznek, de nem      szeretnének kézi számlát használni. A program itt érhető el: [https://onlineszamla.nav.gov.hu/](https://onlineszamla.nav.gov.hu/ "https://onlineszamla.nav.gov.hu/")
