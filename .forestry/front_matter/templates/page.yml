@@ -1,8 +1,6 @@
 ---
-pages:
-- _pages/hiteltanacsadas.md
-- _pages/berszamfejtes.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   type: text
@@ -30,3 +28,7 @@ fields:
   default: "/{{ page.title }}/"
   config:
     required: true
+pages:
+- _pages/adatvedelmi-szabalyzat.md
+- _pages/hiteltanacsadas.md
+- _pages/berszamfejtes.md
