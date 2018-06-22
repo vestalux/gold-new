@@ -1,7 +1,7 @@
 ---
 title: Sütikezelési tájékoztató
 layout: page
-permalink: "/{{ page.title }}/"
+permalink: "/sutikezelesi-tajekoztato/"
 date: 2018-06-22 12:56:12 +0200
 subtitle: ''
 ---
