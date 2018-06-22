@@ -24,6 +24,7 @@ fields:
     required: true
   default: Gold Consulting
 pages:
+- _posts/afa-valtozas-online-szamlazas-2018-07-01.md
 - _posts/segitunk-a-megfelelo-palyazat-kivalasztasaban.md
 - _posts/2017-02-27-palyazat-tarsadalmi-vallalkozasoknak.md
 - _posts/2017-10-29-varhatoan-2017-november-30-tol-adhato-be-a-ginop-2-1-8-17-jelu-eszkozbeszerzes-palyazat.md
