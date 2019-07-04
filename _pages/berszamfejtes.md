@@ -27,6 +27,4 @@ A vezető pozícióban lévő munkatársak bérszámfejtését célszerű a cég
 
 ### Szolgáltatási díj
 
-Bérszámfejtés: nettó 2.000 Ft/fő/hó  
-
-TB ügyintézés, audit szolgáltatási díjakhoz [kérje ajánlatunkat](/kapcsolat/).
+Szolgáltatási díjakhoz [kérje ajánlatunkat](/kapcsolat/).
