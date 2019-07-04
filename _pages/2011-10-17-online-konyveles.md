@@ -25,104 +25,68 @@ Cégünk könyvelő, bérszámfejtő, adótanácsadó tevékenységet végez. Mu
 *   Rugalmasan illeszkedik az ügyfelek igényeihez, a földrajzi távolság akadálya nélkül, a távkönyvelési rendszer bárhonnan bármikor elérhető.
 *   Irodánkat a gyors problémamegoldás, a maximális ügyfél-centrikusság, titoktartás, a teljes szakmai felelősség és garancia vállalás jellemzi.
 
-## 2017 évi díjtáblázatunk:
+## 2019 évi díjtáblázatunk
 
-### Egyéni vállalkozó (alanyi ÁFA mentes) – 8.500 Ft/hó +áfa
+## KATA-s alanyi mentes - 6.000 Ft/hó +áfa
 
-*   adóbevallások készítése
-*   bérszámfejtés 1 főig
-*   havi 50 db bizonylatig (tételig)
+* adóbevallások készítése
+* bérszámfejtés 1 főig
+* havi 50 db bizonylatig (tételig)
 
-### Egyéni vállalkozó ( ÁFA-s) – 12.000 Ft/hó +áfa
+## KATA-s áfakörös - 8.000 Ft/hó +áfa
 
-*   adóbevallások készítése
-*   bérszámfejtés 1 főig
-*   havi 50 db bizonylatig (tételig)  
+* adóbevallások készítése
+* bérszámfejtés 1 főig
+* havi 50 db bizonylatig (tételig)
 
-### Egyéni vállalkozó ( ÁFA-s) – 20.000 Ft/hó +áfa
+## Egyéni vállalkozó alanyi mentes - 9.000 Ft/hó+áfa
 
-*   adóbevallások készítése
-*   bérszámfejtés 1 főig
-*   havi 100 db bizonylatig (tételig)  
+* adóbevallások készítése
+* bérszámfejtés 1 főig
+* havi 50 db bizonylatig (tételig)
 
-_________________________________________________________________________
+## Egyéni vállalkozó áfakörös - 13.000 Ft/hó+áfa
 
-### Társadalmi vállalkozások I. díjkategória (nem áfás) – 8.000 Ft/hó +áfa
+* adóbevallások készítése
+* bérszámfejtés 1 főig
+* havi 50 db bizonylatig (tételig)
 
-*   25 db bejövő-kimenő számla  
+## Egyéni vállalkozó áfakörös - 20.000 Ft/hó+áfa
 
-*   1 db bankszámla vezetése  
+* adóbevallások készítése
+* bérszámfejtés 1 főig
+* havi 100 db bizonylatig (tételig)
 
-*   1 db házipénztár vezetése  
+## Társas vállalkozás alanyi mentes I. díjkategória - 17.000 Ft/hó+áfa                   
 
-*   1 fő bérszámfejtése  
+* 25 db tételszámig                                                                                                   * 1 db bankszámla vezetése
+* 1 fő bérszámfejtése
+          
 
-### Társadalmi vállalkozások (áfás) II. díjkategória– 12.000 Ft/hó +áfa
+## Társas vállalkozás áfakörös I. díjkategória - 30.000 Ft/hó +áfa
 
-*   25 db bejövő-kimenő számla  
+* 25 db tételszámig                                                                                                   * 1 db bankszámla vezetése
+* 1 fő bérszámfejtése
 
-*   1 db bankszámla vezetése  
+## Társas vállalkozás alanyi mentes II. díjkategória - 40.000 Ft/hó+áfa
 
-*   1 db házipénztár vezetése  
+* 50 db tételszámíg
+* 1 db bankszámla vezetése (50 tételszámíg)
+* 1 fő bérszámfejtése
 
-*   1 fő bérszámfejtése
-*   Társadalmi vállalkozások (áfás) III. díjkategória– 15.000 Ft/hó +áfa
-*   50 db bejövő számla, kimenő számla  
+## Társasvállalkozás áfakörös II. díjkategória - 50.000 Ft/hó+áfa
 
-*   1 db bankszámla vezetése  
+* 50 db tételszámig
+* 1 db bankszámla vezetése (50 tételszámíg)
+* 1 fő bérszámfejtése
 
-*   1 db házipénztár vezetése  
+## Társasvállalkozás áfakörös III. díjkategória - 80.000 Ft/hó+áfa
 
-*   1 fő bérszámfejtése  
+* 100 db tételszámig
+* 1 db bankszámla vezetése (100 tételszámig)
+* 1 fő bérszámfejtése
 
-### Társadalmi vállalkozások (áfás) IV. díjkategória– 25.000 Ft/hó +áfa
 
-*   100 db bejövő számla vagy  
 
-*   100 db kimenő számla vagy  
 
-*   1 db bankszámla vezetése  
-
-*   1 db házipénztár vezetése  
-
-*   1 fő bérszámfejtése  
-
-Áraink külkereskedelmi tevékenység, támogatás elkülönített könyvelése, pénztárgép, banki terminál használata esetén változhatnak, illetve magasabb könyvelési tételszám felett egyedi árajánlatot készítünk!
-
-___________________________________________________________________
-
-### Gazdasági társaságok I. díjkategória – 15.000 Ft +áfa
-
-*   25 db bejövő számla vagy  
-
-*   25 db kimenő számla vagy  
-
-*   1 db bankszámla vezetése  
-
-*   1 db házipénztár vezetése  
-
-*   1 fő bérszámfejtése  
-
-### Gazdasági társaságok II. díjkategória – 25.000 Ft +áfa
-
-*   50 db bejövő számla vagy
-*   50 db kimenő számla vagy
-*   1 db bankszámla vezetése  
-
-*   1 db házipénztár vezetése  
-
-*   1 fő bérszámfejtése  
-
-### Gazdasági társaságok III. díjkategória – 40.000 Ft +áfa
-
-*   100 db bejövő számla vagy  
-
-*   100 db kimenő számla vagy  
-
-*   1 db bankszámla vezetése  
-
-*   1 db házipénztár vezetése  
-
-*   1 fő bérszámfejtése  
-
-Áraink külkereskedelmi tevékenység, támogatás elkülönített könyvelése, pénztárgép, banki terminál használata esetén változhatnak, illetve magasabb könyvelési tételszám felett egyedi árajánlatot készítünk!
+A feltüntetett árak tájékoztat jellegűek, nem tartalmazzák az elkülönített könyvelés, pénztárgépek, banki terminál használatából eredő többletfeladatokat, illetve a soron kívüli kérelmek, adatszolgáltatások költségét. Magasabb könyvelési tételszám felett egyedi árajánlatot készítünk!
