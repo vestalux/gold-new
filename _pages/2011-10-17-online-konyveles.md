@@ -59,13 +59,15 @@ Cégünk könyvelő, bérszámfejtő, adótanácsadó tevékenységet végez. Mu
 
 ## Társas vállalkozás alanyi mentes I. díjkategória - 17.000 Ft/hó+áfa                   
 
-* 25 db tételszámig                                                                                                   * 1 db bankszámla vezetése
+* 25 db tételszámig
+* 1 db bankszámla vezetése
 * 1 fő bérszámfejtése
           
 
 ## Társas vállalkozás áfakörös I. díjkategória - 30.000 Ft/hó +áfa
 
-* 25 db tételszámig                                                                                                   * 1 db bankszámla vezetése
+* 25 db tételszámig
+* 1 db bankszámla vezetése
 * 1 fő bérszámfejtése
 
 ## Társas vállalkozás alanyi mentes II. díjkategória - 40.000 Ft/hó+áfa
